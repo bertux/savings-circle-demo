@@ -1,5 +1,5 @@
 # Savings Circle
-This is an example of a dApp that can be built with the Celo dAppKit. Read more about dAppKit at [https://docs.celo.org/developer-resources/dappkit/](https://docs.celo.org/developer-resources/dappkit/)
+This is an example of a dApp that can be built with the Celo dAppKit. Read more about dAppKit at [https://docs.celo.org/developer-guide/dappkit](https://docs.celo.org/developer-guide/dappkit)
 
 A savings circle (sometimes called ROSCA in the US, or paluwagan in the Philippines) lets you pool funds with your friends to save for large purchases by paying into a pool regularly and alternating who receives the pool. For example, in a group of 12 members with a contribution of $100 per week, when it is a member's turn to receive the pool (every 12th week), they receive a lump sum of $1200. 
 
